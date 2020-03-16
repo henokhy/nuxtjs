@@ -8,6 +8,7 @@
       <h2 class="subtitle">
         My astonishing Nuxt.js project
       </h2>
+      <p class="font-size-sm">Henokhy Siswanto</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -64,6 +65,16 @@ export default {
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 15px;
+}
+
+.font-size-sm {
+  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  display: block;
+  font-weight: 60;
+  font-size: 100px;
+  color: #35495e;
+  letter-spacing: 1px;
 }
 
 .links {
