@@ -71,8 +71,8 @@ export default {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
-  font-weight: 60;
-  font-size: 100px;
+  font-weight: 100;
+  font-size: 10px;
   color: #35495e;
   letter-spacing: 1px;
 }
