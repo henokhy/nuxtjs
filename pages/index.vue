@@ -24,6 +24,7 @@
         >
           GitHub
         </a>
+        <NLink to="/about">About</NLink>
       </div>
     </div>
   </div>
